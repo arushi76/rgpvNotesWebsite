@@ -12,7 +12,7 @@ function Footer(){
                     <h2 className="font-extrabold text-4xl sm:text-5xl bg-gradient-to-r from-cyan-300 via-blue-400 to-cyan-500 bg-clip-text text-transparent mb-6">Share And Support Others
                     </h2>
                     <p className="text-base lg:text-xl text-slate-400 mb-10 max-w-2xl mx-auto">Help others learn and grow by sharing your notes. Together,we can create a community where knowledge is Freely available to all.</p>
-                    <a href = "https://drive.google.com/drive/folders/1-6-xyvLDEs4u3j-FGddRrlHMo5uKgq7D" class="inline-block bg-gradient-to-r from-blue-600 to-blue-800 hover:from-blue-700 hover:to-blue-900 text-white font-semibold py-4 px-8 rounded-full shadow-lg transform hover:scale-105 transition-all duration-300">Submit Your Notes</a>
+                    <a href = "https://forms.gle/4UFG3YqpdPXPCXKWA" class="inline-block bg-gradient-to-r from-blue-600 to-blue-800 hover:from-blue-700 hover:to-blue-900 text-white font-semibold py-4 px-8 rounded-full shadow-lg transform hover:scale-105 transition-all duration-300">Submit Your Notes</a>
                 </div>
                 <div class="border-t border-cyan-900 pt-10">
                     <div className="flex flex-col md:flex-row justify-between items-center gap-8">
@@ -23,7 +23,7 @@ function Footer(){
                                  by
                                 <a href = "https://www.linkedin.com/in/arushi-mishra-482b1131b" target="_blank" rel="noopener noreferrer" class="font-bold text-blue-400 hover:text-white transition-colors duration-300 ml-1">Arushi Mishra</a>
                                 &
-                                <a href = "https://www.linkedin.com/in/minakshi-chaturvedi-370abb242" target="_blank" rel="noopener noreferrer" class="font-bold text-blue-400 hover:text-white transition-colors duration-300 ml-1">Minakshi Chaturvedi</a>
+                                <a href = "https://www.linkedin.com/in/krishna-s-lal-1105a233b" target="_blank" rel="noopener noreferrer" class="font-bold text-blue-400 hover:text-white transition-colors duration-300 ml-1">Krishna S Lal</a>
                             </p>
                         </div>
                     </div>

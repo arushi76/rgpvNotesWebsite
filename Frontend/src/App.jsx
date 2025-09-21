@@ -9,8 +9,7 @@ import ThirdYear from './components/thirdYear';
 import Home from './pages/home';
 import About from './pages/about';
 import Books from './pages/books';
-{/*import PYQ from './pages/pyq';
-import Lectures from './pages/lectures';*/}
+import Chatbot from "./components/chatbot";
 
 
 
@@ -18,7 +17,6 @@ function App() {
   return (
     <Router>
       <Navbar />
-
       <Routes>
         <Route
           path="/"
@@ -33,12 +31,20 @@ function App() {
           }
         />
         <Route path="/about" element={<About />} />
-         <Route path="/books" element={<Books />} />
-        {/*<Route path="/pyq" element={<PYQ />} />
-        <Route path="/lectures" element={<Lectures />} /> */}
+        <Route path="/books" element={<Books />} />
       </Routes>
+      <Chatbot />
     </Router>
   );
 }
 
 export default App;
+
+
+
+
+
+
+
+
+       
